@@ -82,7 +82,7 @@ Accede a http://localhost:3000/ en tu navegador web.
 Completa el proceso de registro en Open WebUI.
 Selecciona el modelo de lenguaje 'dotnet-community-assistant'.
 
-¡Listo! Ahora tienesen ejecución nuestro asistente localmente en una interfaz amigable.
+¡Listo! Ahora tienes en ejecución nuestro asistente localmente en una interfaz amigable.
 
 <img width="960" alt="image" src="https://github.com/DotNet-Ecuador/ollama-labwork/assets/57963142/3c3848a2-e090-47bc-902f-60099860cdc0">
 
